@@ -9,7 +9,7 @@ A few useful links to a more secure WordPress. WordPress is a very common platfo
 - [Stronger passwords with bcrypt](https://github.com/roots/wp-password-bcrypt)
 
 ## Server Config
-- [Apache server configs (if in doubt just copy `/dist/.htaccess` to your website's root)([https://github.com/h5bp/server-configs-apache)
+- [Apache server configs (if in doubt just copy `/dist/.htaccess` to your website's root)](https://github.com/h5bp/server-configs-apache)
 - [Nginx server configs (as above but for nginx)](https://github.com/h5bp/server-configs-nginx)
 - [IIS server configs (again, but for Windows servers)](https://github.com/h5bp/server-configs-iis)
 
